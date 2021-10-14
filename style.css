@@ -8,6 +8,16 @@ Flexbox and floats are used as a fallback so that browsers which don't support g
 
 */
 
+/*ANI's styles*/
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
 /* Base Styles */
 
 :root {
